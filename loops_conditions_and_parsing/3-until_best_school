@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#script to display hi on line 9
+#using until to display "Best School"
 i=1
 until false;
 do
@@ -8,6 +8,7 @@ i=$((i+1))
 if ((i<=10));
 then
 continue
-elsebreak
+else
+break
 fi
 done
