@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#using until to display "Best School"
+#script to display hi on line 9
 i=1
 until false;
 do
